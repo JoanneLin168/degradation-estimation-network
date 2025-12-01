@@ -1,10 +1,10 @@
-# Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline [arXiv preprint]
+# Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline [McGE'25 Workshop]
 
 **Authors**: _Joanne Lin, Crispian Morris, Ruirui Lin, Fan Zhang, David Bull, Nantheera Anantrasirichai_
 
 **Institution**: Visual Information Laboratory, University of Bristol, United Kingdom
 
-[[`arXiv`](https://arxiv.org/abs/2504.12169)]
+[['Paper'](https://dl.acm.org/doi/10.1145/3746278.3759376)][[`arXiv`](https://arxiv.org/abs/2504.12169)]
 
 ## Setup
 ### Dependencies
