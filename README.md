@@ -4,7 +4,7 @@
 
 **Institution**: Visual Information Laboratory, University of Bristol, United Kingdom
 
-[['Paper'](https://dl.acm.org/doi/10.1145/3746278.3759376)][[`arXiv`](https://arxiv.org/abs/2504.12169)]
+[[`Paper`](https://dl.acm.org/doi/10.1145/3746278.3759376)][[`arXiv`](https://arxiv.org/abs/2504.12169)]
 
 ## Setup
 ### Dependencies
