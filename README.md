@@ -71,9 +71,20 @@ add the flag `--workers 0` to the command to fix this.
 ## Citation
 If you use our work in your research, please cite using the following BibTeX entry:
 ```
-@article{lin2025den,
-         title={Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline},
-         author={Lin, Joanne and Morris, Crispian, and Lin, Ruirui and Zhang, Fan and Bull, David and Anatrasirichai, Nantheera},
-         year={2025},
-         publisher={arXiv}}
+@inproceedings{lin2025den,
+  author = {Lin, Joanne and Morris, Crispian and Lin, Ruirui and Zhang, Fan and Bull, David and Anantrasirichai, Nantheera},
+  title = {Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline},
+  year = {2025},
+  isbn = {9798400720604},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3746278.3759376},
+  doi = {10.1145/3746278.3759376},
+  booktitle = {Proceedings of the 3rd International Workshop on Multimedia Content Generation and Evaluation: New Methods and Practice},
+  pages = {3–11},
+  numpages = {9},
+  keywords = {synthetic data, low-light, degradations, general-purpose, zero-shot, self-supervised},
+  location = {Ireland},
+  series = {McGE '25}
+}
 ```
